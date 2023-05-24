@@ -1,0 +1,46 @@
+{
+    "titulo" : "Proyectos",
+    "creador" : "Jonathan Iván Rodríguez Cruz",
+    "active" : true,
+    "proyectos" : [
+        {
+            "img" : "/img/proyecto1.PNG",
+            "name" : "Proyecto Freelancer",
+            "date" : 2022,
+            "lenguajes" : [
+                "HTML",
+                "CSS"
+            ]
+        },
+        {
+            "img" : "/img/proyecto2.PNG",
+            "name" : "Portfolio Seán",
+            "date" : 2022,
+            "lenguajes" : [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ]
+        },
+        {
+            "img" : "/img/proyecto3.PNG",
+            "name" : "Portfolio Kenneth Jimmy",
+            "date" : 2022,
+            "lenguajes" : [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ]
+        },
+        {
+            "img" : "/img/proyecto4.PNG",
+            "name" : "Portfolio Matt Farley",
+            "date" : 2022,
+            "lenguajes" : [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ]
+        }
+    ]
+}
